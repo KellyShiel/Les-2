@@ -1,0 +1,12 @@
+.teammember{
+	background-color: blue;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+	border-color: black 2px;
+}
+#first-teammember{
+	background-color: green;
+}
